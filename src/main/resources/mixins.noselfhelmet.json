@@ -1,0 +1,10 @@
+{
+	"required": true,
+	"compatibilityLevel": "JAVA_8",
+	"verbose": true,
+	"package": "moe.thathypedperson.noselfhelmet.mixins",
+	"refmap": "mixins.noselfhelmet.refmap.json",
+	"mixins": [
+		"HelmetOverrideMixin"
+	]
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "noselfhelmet",
+        "name": "No Self Helmet",
+        "description": "Removes your player's helmet to\n1. Look nice.\n2. Show off your ears.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["ThatHypedPerson"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
